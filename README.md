@@ -1,4 +1,3 @@
 # GCP_ChallengeLabs
 
-## </Hola Folks!!>
----
+## </Hola Folks!!>---
