@@ -10,3 +10,24 @@
  in any step or you have done something wrong then this repo can guide you 
  ```
 ---
+
+## Steps to follow while Cloning :
+---
+>run the following commands to clone the repo,
+
+```bash
+git clone "repository Url"
+```
+> go the the GCP_ChallengeLabs folder
+
+```bash
+cd GCP_ChallengeLabs
+```
+> to list all the files 
+```bash
+ls
+```
+
+---
+
+### Contribution are WELCOME to this Repo
